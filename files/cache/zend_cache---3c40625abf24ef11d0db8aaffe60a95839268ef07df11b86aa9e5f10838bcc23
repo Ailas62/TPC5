@@ -1,0 +1,13 @@
+s:551:"
+<div id="HTMLBlock116" class="HTMLBlock">
+<br/>
+<form action="#" method="POST" name="contact">
+<input class="textbox1" type="text" name="name" placeholder="Votre nom" /><br/>
+<br/>
+<input class="textbox1" type="text" name="email" placeholder="Votre adresse email" /><br/>
+<br/>
+<TEXTAREA class="contact_textarea" name="texte" placeholder="Votre message" ></TEXTAREA><br/>
+<br/>
+<input class="bouton" type="submit" value="Envoyer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·····>" /><br/>
+</form>
+<br/></div>";
